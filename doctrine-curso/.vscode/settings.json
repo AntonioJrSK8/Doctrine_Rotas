@@ -1,0 +1,15 @@
+{
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "class-helper.php.property.visibility": "public",
+    // TypeScript: prefix method with the type declaration
+    "class-helper.ts.method.prefixType": true,
+    // TypeScript: prefix method and properties with public or private keywords
+    "class-helper.ts.prefixVisibility": true,
+    // TypeScript: default property visibility
+    "class-helper.ts.property.visibility": "public"
+}
